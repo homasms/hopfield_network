@@ -1,4 +1,4 @@
-**hopfield_network**
+**Hopfield Network**
 
 Implemented a Jupyter notebook featuring the Hopfield network for alphabet recognition ('a' to 'f') using images from the PIL library.  
 Employed image-saving techniques with controlled noise to enhance model accuracy.  
